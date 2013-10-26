@@ -1,3 +1,4 @@
-name: Your New Jekyll Sitebaseurl: /kawaii
+name: Your New Jekyll Site
+baseurl: /kawaii
 markdown: redcarpet
 pygments: true
